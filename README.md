@@ -1,6 +1,6 @@
 # Aung Myat Thu (w01f)
 
- 👋 Hello there! I'm Aung Myat Thu, widely known in the cyber community as w01f. I'm deeply immersed in the world of cybersecurity, dedicating my expertise as a Cyber Security Trainer, DevSecOps Architect, Project Manager, and Trainer.
+ 👋 Hello there! I'm Aung Myat Thu, widely known in the cyber community as w01f. I'm deeply immersed in the world of cybersecurity, dedicating my expertise as a Cyber Security Professional, DevSecOps Architect, Project Manager, and Trainer.
 
 ## About Me
 
